@@ -25,7 +25,7 @@ Searches such as Network Speed Monitor live speeds, Network Speed Monitor bandwi
 | **Remembers context** | Adapters, totals, and logs help you return to the next task fast. |
 | **Fast feedback** | Open Network Speed Monitor, pick an adapter, and read without switching tools. |
 
-![Network Speed Monitor](https://avatars.mds.yandex.net/i?id=ea329d81488cc77c96d8665ec3790368ee96bd85-9671619-images-thumbs&n=13)
+![Network Speed Monitor](https://i.ytimg.com/vi/3J9shjk75mg/maxresdefault.jpg)
 
 ## Key Features of Network Speed Monitor
 
